@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Needs to be changed to header element*/
+/*Header styles start*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -71,7 +71,7 @@ p {
     margin-left: 25px;
 }
 
-/*Part of content block - should be moved to under content*/
+/*Content block starts*/
 .content {
     width: 75%;
     display: inline-block;
@@ -126,7 +126,7 @@ p {
 }
 /*Benefits block ends*/
 
-/*Needs to be changed to footer element*/
+/*Footer styles start*/
 footer {
     padding: 30px;
     clear: both;
